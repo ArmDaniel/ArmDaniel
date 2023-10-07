@@ -5,7 +5,7 @@
 
 - I'm contributing to the **Carbon language**
 
-- Side project : **creppe : a tool to search any codebase using natural language. Porting to Rust with additional features**
+- Side project : **creppe - a tool to search any codebase using natural language. Porting to Rust with additional features**
 
 - 💬 Ask me about **simulation frameworks, C++, C#, .NET**
 
