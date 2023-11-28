@@ -5,7 +5,7 @@
 
 - I'm contributing to the **Carbon language**
 
-- Side projects :
+- Projects :
        1.  **creppe - C++ AST query using XPath**
        2.  **CDR Parser - an automatic CorelDRAW file parser to extract meaningful data to be used in automatic implementation of designs ( useful for simulation graphics, games etc. )**
        3.  **C++ yacc based parser** 
