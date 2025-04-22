@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Armasu</h1>
-<h3 align="center">Simulation software engineer</h3>
+<h3 align="center">Systems engineer</h3>
 
-- I’m currently working on a **Medical Simulation Program**
+- I’m currently working on **using postgresql as my mini OS companion**
 
 - I'm contributing to the **Carbon language**
 
